@@ -1,0 +1,7 @@
+﻿  how_fast.cpp
+C:\Users\Administrator\source\repos\how_fast\how_fast\how_fast.cpp(15,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\how_fast\how_fast\how_fast.cpp(15,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\how_fast\how_fast\how_fast.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  how_fast.vcxproj -> C:\Users\Administrator\source\repos\how_fast\x64\Debug\how_fast.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
